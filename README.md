@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnorakArturo
+- 👀 I’m interested in learning :p
+- 🌱 I’m currently learning C++ and C.
+- 📫 How to reach me [REDACTED]
