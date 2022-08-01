@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnorakArturo
+- 👋 Hi, I’m Sai Krishna
 - 👀 I’m interested in learning :p
-- 🌱 I’m currently learning C++ and C.
-- 📫 How to reach me [REDACTED]
+- 🌱 I’m currently learning C++, along with other minor CSE things
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sai-krishna-p3/)
