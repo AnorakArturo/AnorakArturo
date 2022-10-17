@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  AnorakArturo
 
 # Build settings
-theme: forty-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 
