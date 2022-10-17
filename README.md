@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sai Krishna
+- 👀 I’m interested in learning :p
+- 🌱 I’m currently learning C++, React along with other minor CSE things
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sai-krishna-p3/)
+- 🤠 A curious enthusiast in the FOSS & Privacy space
+- 🔗 [Portfolio Website](https://anorakarturo.github.io/AnorakArturo/) (Unfinished)
