@@ -1,4 +1,4 @@
-# CSE Graduated and Full stack developer, Web Accessibility Tester
+# Full stack developer, Web Accessibility Tester
 
 - 👋 Hi, I’m Sai Krishna
 - 👀 I’m interested in learning how things work!
